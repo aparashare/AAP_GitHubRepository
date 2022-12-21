@@ -1,4 +1,6 @@
-g = Github("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")
+# commenting the token as it expires and access gets revoked
+# Leaarn on the mechanism to get the token
+#g = Github("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")
 
 latest_sha = dev_branch.commit.sha              # is it hypen or = get it clarified
 
